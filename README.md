@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🚶 Haibi Peng
+### 🇨🇳 <a href="https://en.wikipedia.org/wiki/Wuhan" target="_blank">Wuhan</a>, Hubei Province, China
+### 👨‍🎓 Communications Engineering, from <a href="https://en.wikipedia.org/wiki/Beijing_Jiaotong_University" target="_blank">BJTU</a> 🇨🇳 to <a href="https://en.wikipedia.org/wiki/Aalto_University" target="_blank">Aalto University</a> 🇫🇮
+###  💻 Programmer & 📸 Photographer
+
+
+[![Haibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaibiPeng)](https://github.com/anuraghazra/github-readme-stats)
