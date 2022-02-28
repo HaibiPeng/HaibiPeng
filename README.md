@@ -45,14 +45,11 @@ Here are some ideas to get you started:
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>](https://www.docker.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>](https://kubernetes.io/)
-[<code><img height="20" width="20" src="https://iconape.com/wp-content/files/xn/371066/svg/371066.svg"></code>](https://www.heroku.com/home)
 [<code><img height="20" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
-
 
 
 ### 📈 my github stats
 
-[![Haibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaibiPeng&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Haibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaibiPeng&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
