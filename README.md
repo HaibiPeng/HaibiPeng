@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 #### 🇨🇳 <a href="https://en.wikipedia.org/wiki/Wuhan" target="_blank">Wuhan</a>, Hubei Province, China
 #### 👨‍🎓 Communications Engineering, from <a href="https://en.wikipedia.org/wiki/Beijing_Jiaotong_University" target="_blank">BJTU</a> 🇨🇳 to <a href="https://en.wikipedia.org/wiki/Aalto_University" target="_blank">Aalto University</a> 🇫🇮
 ####  💻 Programmer & 📸 Photographer
-####  👨‍💻 https://photographb.cn/
 #### 📫 `haibi.peng@aliyun.com`
 
 ![](https://visitor-badge.glitch.me/badge?page_id=haibipeng.haibipeng)
